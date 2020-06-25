@@ -1,0 +1,27 @@
+_repo: The-Ruins-of-the-Roman-City-of-Uriconium-at-Wroxeter-near-Shrewsbury_62425
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wright, Thomas
+    birthdate: 1810
+    deathdate: 1877
+    gutenberg_agent_id: '40435'
+    url: http://www.gutenberg.org/2009/agents/40435
+    wikipedia: https://en.wikipedia.org/wiki/Thomas_Wright_(antiquarian)
+description: ''
+gutenberg_issued: '2020-06-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62425'
+  lccn: '26002042'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Romans -- England -- Wroxeter'
+- !lcc 'DA'
+- !lcsh 'Wroxeter (England) -- Antiquities, Roman'
+- GITenberg
+title: The Ruins of the Roman City of Uriconium, at Wroxeter, near Shrewsbury
+url: http://www.gutenberg.org/ebooks/62425
